@@ -115,7 +115,7 @@ Highly recommend reading through Applied Predictive Modeling book.
 
 - Data scientist shall feel very comfortable describing the pros and cons of different algorithms, when and when not to use certain of them.
 
-![ML algorithms Family](ml_map.png)
+![ML algorithms Family](https://raw.githubusercontent.com/dingchaoz/dingchaoz.github.io/master/blog/ml_map.png)
 
 - Model Selection, Validation
   example questions:
