@@ -11,3 +11,6 @@ We can possibly build a summarization system using IA's diagnosis --> impression
 
 [Vehicle Detection and Tracking in Videos](http://www.gti.ssr.upm.es/data/Vehicle_database.html)
 Using SVM, HoG features and OpenCV to identify and track vehicles from a video stream.
+
+
+TODO: make one of the projects deployed to cloud, and use mongoDB or another SQLDB to store requests/ model returns, also add comprehensive logging modules to the application, and integrate the logging files to Elastic Search, and make a dashboard to display key metrics for the application. 
