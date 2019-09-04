@@ -5,12 +5,13 @@ In the mini-project, you'll learn the basics of text analysis using a subset of 
 
 [Amazon Product Recommendation System](http://jmcauley.ucsd.edu/data/amazon/)
 The Amazon product review datasets contains product reviews and metadata from Amazon, including 142.8 million reviews. We can build a recommendation system using possible tools like [SparkML ALS](https://spark.apache.org/docs/2.2.0/ml-collaborative-filtering.html)
+- Read [recommendation system overview Chapter 9](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 - Downloading the movies and TV dataset, read and explore it:
 ```bash
 for line in open('Movies_and_TV_5.json','r'): 
      data.append(json.loads(line)) 
 ```
-- transform the json format into utility matrix table-alike data which contains: userid(row), itemid(col) and rating(values)
+- Transform the json format into utility matrix table-alike data which contains: userid(row), itemid(col) and rating(values)
 - EDA: exploratory data analysis: examine the sparseness of the data, very likely
 large amount of less known items(movies) don't have ratings or very few ratings at all.
 Plot a distribution of moving rating frequency on log scale, then filter out items that
