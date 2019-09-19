@@ -41,4 +41,40 @@ description is a short, one-sentence summary of the package.
 
 More read of package python:https://packaging.python.org/tutorials/packaging-projects/
 
-- 
+### week3:
+
+### week4 :airflow
+
+1. First installing Airflow
+```
+pip install apache-airflow[postgres]
+pip3 install psycopg2-binary
+```
+2. Setup Airflow environment variable
+Add following line in ~/.bash_profile to set an important environment variable called AIRFLOW_HOME
+
+3. Initialize the database
+```
+airflow initdb
+```
+4. start the web server, default port is 8080
+```airflow webserver -p 8080
+```
+5. start the scheduler
+```
+airflow scheduler
+```
+then visit localhost:8080 in the browser and enable the example dag in the home page
+
+6.(Optional) 
+- Mac user:If using postgress as the sql backend, install postgressapp first, following the 3 steps in this [start-up page](https://postgresapp.com/), then update the following settings in airflow/airflow.cfg file as following:
+```
+sql_alchemy_conn = postgresql://localhost:5432
+executor = LocalExecutor
+sql_alchemy_schema = public
+```
+then restart from step 3 to initialize the db.
+- Linux user: follow this [article] (https://medium.com/@taufiq_ibrahim/apache-airflow-installation-on-ubuntu-ddc087482c14)
+
+[Use Airflow to build a Recommender System from end to end on AWS] (https://github.com/aws-samples/sagemaker-ml-workflow-with-apache-airflow)
+
