@@ -52,8 +52,10 @@ pip install apache-airflow[postgres]
 pip install psycopg2-binary
 ```
 2. Setup Airflow environment variable
-Add following line in ~/.bash_profile to set an important environment variable called AIRFLOW_HOME
-
+Add following line in ~/.zshrc to set an important environment variable called AIRFLOW_HOME:
+```export AIRFLOW_HOME=./airflow```
+Then refresh terminal to activate the home env setup:
+```source ~/.zshrc```
 3. Initialize the database
 ```
 airflow initdb
