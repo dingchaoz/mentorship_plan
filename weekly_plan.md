@@ -49,7 +49,7 @@ More read of package python:https://packaging.python.org/tutorials/packaging-pro
 1. First installing Airflow
 ```
 pip install apache-airflow[postgres]
-pip3 install psycopg2-binary
+pip install psycopg2-binary
 ```
 2. Setup Airflow environment variable
 Add following line in ~/.bash_profile to set an important environment variable called AIRFLOW_HOME
