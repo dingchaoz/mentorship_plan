@@ -42,6 +42,7 @@ description is a short, one-sentence summary of the package.
 More read of package python:https://packaging.python.org/tutorials/packaging-projects/
 
 ### week3:
+[A/B testing](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/interview_prep_resources.md)
 
 ### week4 :airflow
 
@@ -74,7 +75,7 @@ executor = LocalExecutor
 sql_alchemy_schema = public
 ```
 then restart from step 3 to initialize the db.
-- Linux user: follow this [article] (https://medium.com/@taufiq_ibrahim/apache-airflow-installation-on-ubuntu-ddc087482c14)
+- Linux user: follow this [article](https://medium.com/@taufiq_ibrahim/apache-airflow-installation-on-ubuntu-ddc087482c14)
 
-[Use Airflow to build a Recommender System from end to end on AWS] (https://github.com/aws-samples/sagemaker-ml-workflow-with-apache-airflow)
+[Use Airflow to build a Recommender System from end to end on AWS](https://github.com/aws-samples/sagemaker-ml-workflow-with-apache-airflow)
 
