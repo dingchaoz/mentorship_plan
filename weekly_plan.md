@@ -59,7 +59,8 @@ Add following line in ~/.bash_profile to set an important environment variable c
 airflow initdb
 ```
 4. start the web server, default port is 8080
-```airflow webserver -p 8080
+```
+airflow webserver -p 8080
 ```
 5. start the scheduler
 ```
