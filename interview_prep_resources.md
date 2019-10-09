@@ -8,7 +8,13 @@ Q1:How would you design a system to identify the best photographs in a set of ph
 
 Q2: You have two algo, A1 and A2 that can predict if an image is a best shot. How do you decide which one is better.
 
-Q3:![Q3](11 of 19.png)
+Q3:![Q3](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/11%20of%2019.png)
+Q4:![Q4](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/12%20of%2019.png)
+Q5:![Q5](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/13%20of%2019.png)
+Q6:![Q6](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/14%20of%2019.png)
+Q7:![Q7](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/15%20of%2019.png)
+Q8:![Q8](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/16%20of%2019.png)
+
 
 
 - ### Stats:
