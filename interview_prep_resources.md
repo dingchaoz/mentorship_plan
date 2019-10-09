@@ -1,6 +1,25 @@
+- ### Project Interviews:
+Write down examples of work experiences related to these topics to refresh your memory—you will need to recall specific examples to answer the questions well. When asked about a prior experience, make sure you tell a story. Being able to concisely and logically craft a story to detail your experiences is important. For example: ”the challenge was X, I did A, B, and C, and decided that the answer was Y.”
+
+Of course, if you can highlight experiences having to do with data science, these questions present a great opportunity to showcase a unique accomplishment as a data scientist that you may not have discussed previously.
+
+Here are examples of these sorts of questions/prompts:
+
+Tell me about a challenge you have overcome while working on a group project.
+What have you done in the past to make a client satisfied/happy?
+What have you done in your previous job that you are really proud of?
+Tell me about a time when you took initiative.
+Tell me about a time when you had to overcome a dilemma.
+Tell me about a time when you resolved a conflict.
+Tell me about a time you failed and what you have learned from it.
+Tell me about (a job on your resume). Why did you choose to do it and what do you like most about it?
+When you encountered a tedious, boring task, how would you deal with it and motivate yourself to complete it?
+What do you do when your personal life is running over into your work life?
+
+
 - ### Machine Learning:
 
-(interview questions list)[https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/]
+[interview questions list](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 
 Actual questions in Machine Learning Design: 
 
