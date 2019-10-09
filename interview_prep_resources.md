@@ -2,12 +2,13 @@
 
 
 
-Actual questions in Machine Learning Design 
+Actual questions in Machine Learning Design: 
 
 Q1:How would you design a system to identify the best photographs in a set of photographs? Explain your choices and what is needed to accomplish this task.
 
 Q2: You have two algo, A1 and A2 that can predict if an image is a best shot. How do you decide which one is better.
 
+Q3:
 
 
 - ### Stats:
