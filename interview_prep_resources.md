@@ -1,6 +1,6 @@
 - ### Machine Learning:
 
-
+(interview questions list)[https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/]
 
 Actual questions in Machine Learning Design: 
 
