@@ -1,7 +1,7 @@
 Resources:
 [interview questions list1](https://www.springboard.com/blog/data-science-interview-questions/)
 
-[interview questions list2] (https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
+[interview questions list2](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 
 
 - ### Project Interviews:
