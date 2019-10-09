@@ -1,3 +1,9 @@
+Resources:
+[interview questions list1](https://www.springboard.com/blog/data-science-interview-questions/)
+
+[interview questions list2] (https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
+
+
 - ### Project Interviews:
 Write down examples of work experiences related to these topics to refresh your memory—you will need to recall specific examples to answer the questions well. When asked about a prior experience, make sure you tell a story. Being able to concisely and logically craft a story to detail your experiences is important. For example: ”the challenge was X, I did A, B, and C, and decided that the answer was Y.”
 
@@ -18,8 +24,6 @@ Here are examples of these sorts of questions/prompts:
 
 
 - ### Machine Learning:
-
-[interview questions list](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 
 Actual questions in Machine Learning Design: 
 
