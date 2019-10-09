@@ -27,6 +27,30 @@ Q8:![Q8](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/16%20of
 
 
 - ### SQL:
+
+You are modeling a typical school:
+●	The school has multiple classes (French, German, Math, …)
+●	The school had multiple students (Jack, Jill, John, Jane,...)
+●	A student may attend zero, one or more than one class
+●	A class has zero, one or more students
+
+Q1: List the commands to create the Schema in a SQL Database:
+
+Q2: Write the SQL query that returns the number of each students in a class:
+
++--------------+--------------+
+| French       |   12         |
+| German       |   7          |
+| Math         |   21         |
+… 
+
+Q3: Write the SQL query that list the names of all the students in a given class
+
+Q4: The school is an online class with billions of students and millions of classes. Performance for the above queries is now slow - what can you do?
+
+
+Q5: Would you recommend other changes at this scale?
+
   - SQL optimization techniques:
 [Techniques for improving the performance of SQL queries](https://www.ibm.com/support/knowledgecenter/en/SSZLC2_9.0.0/com.ibm.commerce.developer.doc/refs/rsdperformanceworkspaces.htm)
 
