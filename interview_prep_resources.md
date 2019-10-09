@@ -8,7 +8,7 @@ Q1:How would you design a system to identify the best photographs in a set of ph
 
 Q2: You have two algo, A1 and A2 that can predict if an image is a best shot. How do you decide which one is better.
 
-Q3:![Q3](11 of 19.jpg)
+Q3:![Q3](11 of 19.png)
 
 
 - ### Stats:
