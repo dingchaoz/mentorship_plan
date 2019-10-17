@@ -1,4 +1,5 @@
 Resources:
+
 [interview questions list1](https://www.springboard.com/blog/data-science-interview-questions/)
 
 [interview questions list2](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
@@ -52,14 +53,16 @@ Q8:![Q8](https://github.com/dingchaoz/jiawen_mentorship_plan/blob/master/16%20of
 - ### SQL:
 
 You are modeling a typical school:
-●	The school has multiple classes (French, German, Math, …)
-●	The school had multiple students (Jack, Jill, John, Jane,...)
-●	A student may attend zero, one or more than one class
-●	A class has zero, one or more students
+    -	The school has multiple classes (French, German, Math, …)
+    - The school had multiple students (Jack, Jill, John, Jane,...)
+    -	A student may attend zero, one or more than one class
+    -	A class has zero, one or more students
 
-Q1: List the commands to create the Schema in a SQL Database:
+Q1:
+List the commands to create the Schema in a SQL Database:
 
-Q2: Write the SQL query that returns the number of each students in a class:
+Q2: 
+Write the SQL query that returns the number of each students in a class:
 
 +--------------+--------------+
 | French       |   12         |
@@ -67,9 +70,11 @@ Q2: Write the SQL query that returns the number of each students in a class:
 | Math         |   21         |
 … 
 
-Q3: Write the SQL query that list the names of all the students in a given class
+Q3: 
+Write the SQL query that list the names of all the students in a given class
 
-Q4: The school is an online class with billions of students and millions of classes. Performance for the above queries is now slow - what can you do?
+Q4: 
+The school is an online class with billions of students and millions of classes. Performance for the above queries is now slow - what can you do?
 
 
 Q5: Would you recommend other changes at this scale?
